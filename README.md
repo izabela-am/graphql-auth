@@ -4,3 +4,5 @@
 ## Topics I want to implement:
 - [] User Authentication
 - [] Cache
+- [] Replace in-memory database with actual SQL db
+- [] Tests
